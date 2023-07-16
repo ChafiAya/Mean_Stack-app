@@ -8,6 +8,7 @@ Angular4
 Setting up & Installation Locally
 1- clone this repository and run npm install
 
+
 npm install
 2- create .env file in the root directory and add the Database and Port settings example (file .env):
 
